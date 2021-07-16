@@ -1,0 +1,29 @@
+---
+title: "270 Reasons Women Choose Not To Have Children"
+author: Jaleel Rogers
+date: "July 7, 2021"
+output: html_document
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+
+<B>Link to the article: </B> <https://data.huffingtonpost.com/2015/07/choosing-childfree>
+
+During the 21st century, there has been an increase in American women between the ages of 18 to 44 not having children. “The number of childfree women is at a record high: 48 percent of women between the ages of 18 and 44 don’t have kids, according to U.S. Census Bureau”. There is a multitude of reasons why women feel the need not to have or raise a family.  
+
+The data is presented in the form of a survey, categorizing the 270 responses in five categories; "I want to prioritize my career", "I don't like children", "I have a bad relationship with my parents", I don't want the financial responsibility", and "I like my life as it is". Though responses vary, with some respondents giving a sentence while others elaborated in the form of 3 or more sentences as to why they do not want children.
+
+This article for me, was significant as it confirmed a trend globally. Countries that are considered world powers such as Japan, China, America, and others are seeing a decline in population growth. Though there are various factors to take into consideration, such as immigration, average life expectancy, and economics. Women currently, especially in America have more opportunities to have a successful career, insecurities with the economy (income, available resources, and housing), past family history that may repeat itself, or just happy with no children. I also find it interesting as the reasoning behind major decisions individuals make as it allows you to self-evaluate your past, present, and future decisions and deciding what you desire in life.
+
+
+![Women](https://e.huffpost.com/datadot/images/projects/childlessness/childless-lede-short-1221333f4d97184fedefa17e09184444.png)
+Figure 1 - Illustration by Alissa Scheller 
+
+
+
+
